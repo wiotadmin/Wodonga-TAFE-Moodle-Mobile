@@ -5,7 +5,7 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2010"
         version   = "2.9">
-    <name>WT2 Mobile</name>
+    <name>WT Moodle</name>
 
     <description>
         Wodonga TAFE's Moodle Mobile app
