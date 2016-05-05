@@ -1,7 +1,7 @@
 {
     "authenticating": "Authenticating",
     "cancel": "Cancel",
-    "credentials": "Credentials",
+    "credentials": "Login to Moodle",
     "credentialsdescription": "Please provide your username and password to login on ",
     "confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "connect": "Connect!",
