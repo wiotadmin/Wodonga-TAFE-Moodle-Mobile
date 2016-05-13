@@ -3,15 +3,15 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.wodongatafe.moodlemobile"
-        versionCode = "10003"
-        version   = "2.9">
+        versionCode = "10004"
+        version   = "2.9.1">
     <name>WT Moodle</name>
 
     <description>
         Wodonga TAFE's Moodle Mobile app
     </description>
 
-    <author href="http://wodongatafe.edu.au" email="jcartwright@wodongatafe.edu.au">
+    <author href="http://wodongatafe.edu.au" email="learninginnovation@wodongatafe.edu.au">
         Wodonga TAFE
     </author>
 
