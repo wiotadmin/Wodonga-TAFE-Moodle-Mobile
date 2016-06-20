@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.wodongatafe.moodlemobile"
-        versionCode = "10007"
-        version   = "3.1.0">
+        versionCode = "10008"
+        version   = "3.1.0.1">
    <name>WT Moodle</name>
 
     <description>
